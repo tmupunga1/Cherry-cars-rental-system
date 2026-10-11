@@ -1,18 +1,34 @@
-## Getting Started
+# CherryCars Car Rental System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java-based car rental system developed as part of my first-year Computer Science studies at the University of Staffordshire.
 
-## Folder Structure
+## Overview
 
-The workspace contains two folders by default, where:
+CherryCars is a vehicle rental project built using object-oriented programming principles. The project includes different vehicle types, customer-related classes and database helper functionality.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Technologies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Java** for application development
+- **JUnit** for unit testing
+- **Database integration** through a database helper class
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Project Structure
 
-## Dependency Management
+- `src/main` - Main application source code
+- `src/test` - Unit test classes
+- `lib` - Project dependencies and libraries
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Key Concepts
+
+- Object-oriented programming
+- Classes and inheritance for different vehicle types
+- Unit testing
+- Database interaction
+
+## What I Learned
+
+This project helped me develop my Java programming skills, understand object-oriented design and practise testing application functionality.
+
+## Project Status
+
+University coursework project. This repository is intended to showcase my learning and development.
